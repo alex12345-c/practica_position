@@ -24,6 +24,7 @@ h1 {
     font-size: 65px;
     margin-top: 20px;
     margin-bottom: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .boton {
@@ -32,5 +33,5 @@ h1 {
     padding: 20px;
     text-decoration: none;
     font-size: 18px;
-    
+    border-radius: 20px;
 }
